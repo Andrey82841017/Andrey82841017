@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Андрей Шаруев 
-<h3 align="center"></h3>
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Andrey82841017" height="40" width="180" style="max-width: 100%;">
-  <div  align="center" id="badges">Мои контакты
+<h3 align="center">Мои контакты</h3>
+
+  <div  align="center" id="badges">
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
