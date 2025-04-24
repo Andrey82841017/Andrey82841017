@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=Andrey82841017&style=flat-square&color=blue" alt=""/>
 <!--
   <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
