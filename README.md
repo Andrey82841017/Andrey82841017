@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Андрей Шаруев 
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-blue" alt="Andrey82841017" height="40" width="40" style="max-width: 100%;">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-blue" alt="Andrey82841017" height="40" width="80" style="max-width: 100%;">
 <!--
   <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
