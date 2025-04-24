@@ -1,8 +1,8 @@
 <h1 align="center">Привет, я Андрей Шаруев 
 <h3 align="center"></h3>
   <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Andrey82841017" height="40" width="180" style="max-width: 100%;">
-  <div id="badges">
-  <a href="your-linkedin-URL">
+  <div  align="center" id="badges">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -13,7 +13,18 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=Andrey82841017&style=flat-square&color=blue" alt=""/>
-<!--
+<ul dir="auto">
+<li>
+<p dir="auto">🌱 I’m currently learning <strong>Swift, Python, Web</strong></p>
+</li>
+<li>
+<p dir="auto">📫 How to reach me <strong><a href="mailto:daniilshstukhin@gmail.com">daniilshstukhin@gmail.com</a></strong></p>
+</li>
+<li>
+<p dir="auto">🌍 I speak Russian (native), English (B2)</p>
+</li>
+</ul>
+  <!--
   <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 **Andrey82841017/Andrey82841017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
