@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Андрей Шаруев 
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-  <img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" style="max-width: 100%;">
+  <img align="center" src="https://raw.githubusercontent.com/Andrey82841017/Andrey82841017/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="Andrey82841017" height="40" width="40" style="max-width: 100%;">
 <!--
   <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
