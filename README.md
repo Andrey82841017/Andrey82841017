@@ -3,10 +3,10 @@
 
   <div  align="center" >
     <a href="https://t.me/Andreysharuev" rel="nofollow">
-      <img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="Andrey82841017" height="40" width="40" style="max-width: 100%">
+      <img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="Andreysharuev" height="40" width="40" style="max-width: 100%">
     </a>
     <a href="https://vk.com/id731053439" rel="nofollow">
-      <img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="Andrey82841017" height="40" width="40" style="max-width: 100%;"></a>
+      <img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="Andrey82841017" height="40" width="40" style="max-width: 100%"></a>
 </div>
 
   <img src="https://komarev.com/ghpvc/?username=Andrey82841017&style=flat-square&color=blue" alt=""/>
@@ -16,10 +16,10 @@
 <p dir="auto">Я ищу работу Frontend - разработчиком удаленно или в офисе в г. Москва, г. Санкт-Петербург</strong></p>
 </li>
 <li>
-<p dir="auto">📫 Связаться со мной можно по почте<strong><a href="mailto:shand@yandex.ru">shand@yandex.ru</a></strong></p>
+<p dir="auto">Связаться со мной можно по почте<strong><a href="mailto:shand@yandex.ru">shand@yandex.ru</a></strong></p>
 </li>
 <li>
-<p dir="auto"> Ссылка на резюме в <a href="https://hh.ru/resume/64fcfac4ff0ebecac90039ed1f42316163624d">HH</a>
+<p dir="auto">Ссылка на резюме в <a href="https://hh.ru/resume/64fcfac4ff0ebecac90039ed1f42316163624d">HH</a>
 </p>
 </li>
 </ul>
@@ -34,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express"width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 
  
 </div>
