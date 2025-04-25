@@ -11,7 +11,7 @@
   
 <ul dir="auto">
 <li>
-<p dir="auto">Я ищу работу Frontend - разработчиком удаленно либо в г. Москва или г. Санкт-Петербург</strong></p>
+<p dir="auto">Я ищу работу Frontend - разработчиком удаленно или в офисе в г. Москва, г. Санкт-Петербург</strong></p>
 </li>
 <li>
 <p dir="auto">📫 Связаться со мной можно по почте<strong><a href="mailto:shand@yandex.ru">shand@yandex.ru</a></strong></p>
