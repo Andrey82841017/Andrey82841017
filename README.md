@@ -2,18 +2,13 @@
 <h3 align="center">Мои контакты</h3>
 
   <div  align="center" id="badges">
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <a href="https://t.me/Andreysharuev" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="Andrey82841017" height="40" width="40" style="max-width: 100%;">
+    <a href="https://t.me/Andreysharuev" rel="nofollow"><img align="center"             src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="Andrey82841017" height="40" width="40" style="max-width: 100%">
     </a>
-  <a href="https://vk.com/daniilshat" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="Andrey82841017" height="40" width="40" style="max-width: 100%;"></a>
- 
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+    <a href="https://vk.com/daniilshat" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="Andrey82841017" height="40" width="40" style="max-width: 100%;"></a>
 </div>
+
   <img src="https://komarev.com/ghpvc/?username=Andrey82841017&style=flat-square&color=blue" alt=""/>
+  
 <ul dir="auto">
 <li>
 <p dir="auto">Я ищу работу Frontend - разработчиком удаленно либо в г. Москва или г. Санкт-Петербург</strong></p>
