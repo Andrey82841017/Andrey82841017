@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Андрей Шаруев 
 <h3 align="center">Мои контакты</h3>
 
-  <div  align="center" id="badges">
+  <div  align="center" >
     <a href="https://t.me/Andreysharuev" rel="nofollow">
       <img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="Andrey82841017" height="40" width="40" style="max-width: 100%">
     </a>
